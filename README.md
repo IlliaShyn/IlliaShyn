@@ -1,8 +1,8 @@
-### Tere ! 👋
+# Tere ! 👋
 
-### My projects
-## Machine learning
-# [Regression-analysis](https://github.com/IlliaShyn/Regression-analysis.git)
+## My projects
+### Machine learning
+### [Regression-analysis](https://github.com/IlliaShyn/Regression-analysis.git)
 <!--
 **IlliaShyn/IlliaShyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
