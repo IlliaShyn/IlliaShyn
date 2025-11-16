@@ -1,4 +1,4 @@
-# Tere ! 👋
+# Hello ! 👋
 
 ## My projects
 ### Machine learning:
