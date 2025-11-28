@@ -1,4 +1,7 @@
 # Hello ! 👋
+## Hackatons
+### [Wise Hackaton 2025](https://github.com/IlliaShyn/vaultx.git)
+
 
 ## My projects
 ### Machine learning:
