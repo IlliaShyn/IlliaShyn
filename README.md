@@ -2,6 +2,7 @@
 
 ## 🚀 Hackathons
 - [Wise Hackaton 2025](https://github.com/IlliaShyn/vaultx.git)
+-  [Nasa Kiev Hackaton 2025](https://github.com/IlliaShyn/space-hackathon.git)
 
 ---
 
